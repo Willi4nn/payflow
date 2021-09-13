@@ -10,7 +10,7 @@
 <h2 align="center">Layout 🎨</h2>
 
    <p align="center">
-      <img alt="PayFlow" title="PayFlow" src=".github/capa.png" />
+      <img alt="PayFlow" title="PayFlow" src="https://user-images.githubusercontent.com/59374587/122856653-86779c80-d2ed-11eb-8927-8c5433dc37d3.png" />
    </p>
 
    <p align="center">
